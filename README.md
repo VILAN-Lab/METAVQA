@@ -5,7 +5,7 @@ The datasset will be released soon.
 
 # Dataset
 
-This is the dataset about paper _Metaphorical Visual Question Answering: Benchmark and Knowledge-Enhanced Metaphor Understanding Method__
+This is the dataset about paper __Metaphorical Visual Question Answering: Benchmark and Knowledge-Enhanced Metaphor Understanding Method__
 
 ## METAVQA text
 This is METAVQA dataset. We have released the text annotation in this project.
